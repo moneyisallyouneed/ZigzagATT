@@ -1,0 +1,1 @@
+This is the repo for "ZIGZAG ATTENTION: A STRUCTURAL AWARE MODULE FOR LANE DETECTION" (ICASSP Accepted). Cooming soon~
