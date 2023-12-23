@@ -1,6 +1,6 @@
 This is the repo for "ZIGZAG ATTENTION: A STRUCTURAL AWARE MODULE FOR LANE DETECTION" (ICASSP2024 Accepted). 
 
-Cooming soon~
+Coming soon~
 
 @INPROCEEDINGS{zigzagatt,\
   author={Ling, Jiajun and Chen, Yifan and Cheng, Qimin and Huang, Xiao},\
